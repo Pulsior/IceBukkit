@@ -1,0 +1,11 @@
+name: Ice Bukkit
+main: com.pulsior.icebukkit.IceBukkit
+version: 1.0
+author: Pulsior
+permissions:
+     icebukkit.use:
+       description: Allow players to soak themselves with an ice water bucket
+       default: true
+
+
+     
